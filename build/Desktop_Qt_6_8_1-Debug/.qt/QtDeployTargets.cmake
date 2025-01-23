@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appSongPlayer_FILE /home/iago/Documentos/QT/Projects/SongPlayer/build/Desktop_Qt_6_8_1-Debug/appSongPlayer)
+set(__QT_DEPLOY_TARGET_appSongPlayer_TYPE EXECUTABLE)

@@ -1,0 +1,14 @@
+--bare
+-I
+/home/iago/Documentos/QT/Projects/SongPlayer/build/Desktop_Qt_6_8_1-Debug
+-I
+/home/iago/Qt/6.8.1/gcc_64/qml
+--resource
+/home/iago/Documentos/QT/Projects/SongPlayer/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_SongPlayer.qrc
+--resource
+/home/iago/Documentos/QT/Projects/SongPlayer/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appSongPlayer_raw_qml_0.qrc
+/home/iago/Documentos/QT/Projects/SongPlayer/Main.qml
+/home/iago/Documentos/QT/Projects/SongPlayer/AudioInfoBox.qml
+/home/iago/Documentos/QT/Projects/SongPlayer/ImageButton.qml
+--json
+/home/iago/Documentos/QT/Projects/SongPlayer/build/Desktop_Qt_6_8_1-Debug/appSongPlayer_qmllint.json

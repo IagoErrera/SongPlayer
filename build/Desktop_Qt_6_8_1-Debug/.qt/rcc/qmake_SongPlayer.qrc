@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/SongPlayer">
+    <file alias="qmldir">/home/iago/Documentos/QT/Projects/SongPlayer/build/Desktop_Qt_6_8_1-Debug/SongPlayer/qmldir</file>
+  </qresource>
+</RCC>
+

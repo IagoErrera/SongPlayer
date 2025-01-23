@@ -1,0 +1,36 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 14,
+                        "durationMicroseconds": 299,
+                        "errorMessage": "",
+                        "functionName": "opacity",
+                        "line": 10
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 134,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 15
+                    }
+                ],
+                "filepath": "/home/iago/Documentos/QT/Projects/SongPlayer/ImageButton.qml"
+            }
+        ],
+        "moduleId": "SongPlayer(appSongPlayer)"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 684,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QVariant -> QColor stored as QVariant",
+                        "functionName": "color",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 100,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 32
+                    }
+                ],
+                "filepath": "/home/iago/Documentos/QT/Projects/SongPlayer/TextButton.qml"
+            }
+        ],
+        "moduleId": "SongPlayer(appSongPlayer)"
+    }
+]

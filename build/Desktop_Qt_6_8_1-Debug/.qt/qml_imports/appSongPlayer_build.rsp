@@ -1,0 +1,14 @@
+-rootPath
+/home/iago/Documentos/QT/Projects/SongPlayer
+-cmake-output
+-output-file
+/home/iago/Documentos/QT/Projects/SongPlayer/build/Desktop_Qt_6_8_1-Debug/.qt/qml_imports/appSongPlayer_build.cmake
+-importPath
+/home/iago/Documentos/QT/Projects/SongPlayer/build/Desktop_Qt_6_8_1-Debug/SongPlayer
+-importPath
+/home/iago/Documentos/QT/Projects/SongPlayer/build/Desktop_Qt_6_8_1-Debug
+-importPath
+/home/iago/Qt/6.8.1/gcc_64/qml
+-qrcFiles
+/home/iago/Documentos/QT/Projects/SongPlayer/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_SongPlayer.qrc
+/home/iago/Documentos/QT/Projects/SongPlayer/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appSongPlayer_raw_qml_0.qrc

@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="/qt/qml/SongPlayer/">
+    <file alias="Main.qml">/home/iago/Documentos/QT/Projects/SongPlayer/Main.qml</file>
+    <file alias="AudioInfoBox.qml">/home/iago/Documentos/QT/Projects/SongPlayer/AudioInfoBox.qml</file>
+    <file alias="ImageButton.qml">/home/iago/Documentos/QT/Projects/SongPlayer/ImageButton.qml</file>
+    <file alias="assets/images/song_1.jpg">/home/iago/Documentos/QT/Projects/SongPlayer/assets/images/song_1.jpg</file>
+    <file alias="assets/images/song_2.jpg">/home/iago/Documentos/QT/Projects/SongPlayer/assets/images/song_2.jpg</file>
+    <file alias="assets/images/song_3.jpg">/home/iago/Documentos/QT/Projects/SongPlayer/assets/images/song_3.jpg</file>
+    <file alias="assets/icons/app_icon.ico">/home/iago/Documentos/QT/Projects/SongPlayer/assets/icons/app_icon.ico</file>
+    <file alias="assets/icons/next_icon.png">/home/iago/Documentos/QT/Projects/SongPlayer/assets/icons/next_icon.png</file>
+    <file alias="assets/icons/pause_icon.png">/home/iago/Documentos/QT/Projects/SongPlayer/assets/icons/pause_icon.png</file>
+    <file alias="assets/icons/play_icon.png">/home/iago/Documentos/QT/Projects/SongPlayer/assets/icons/play_icon.png</file>
+    <file alias="assets/icons/previous_icon.png">/home/iago/Documentos/QT/Projects/SongPlayer/assets/icons/previous_icon.png</file>
+    <file alias="assets/videos/video_1.avi">/home/iago/Documentos/QT/Projects/SongPlayer/assets/videos/video_1.avi</file>
+  </qresource>
+</RCC>
+
