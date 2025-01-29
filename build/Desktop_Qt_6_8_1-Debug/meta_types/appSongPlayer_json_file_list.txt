@@ -1,0 +1,1 @@
+/home/iago/Documentos/QT/Projects/SongPlayer/build/Desktop_Qt_6_8_1-Debug/appSongPlayer_autogen/include/../EWIEGA46WW/moc_PlayerController.cpp.json

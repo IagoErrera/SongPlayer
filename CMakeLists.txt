@@ -10,6 +10,7 @@ qt_standard_project_setup(REQUIRES 6.5)
 
 qt_add_executable(appSongPlayer
     main.cpp
+    PlayerController.h PlayerController.cpp
 )
 
 qt_add_qml_module(appSongPlayer
@@ -32,6 +33,8 @@ qt_add_qml_module(appSongPlayer
         assets/icons/previous_icon.png
 
         assets/videos/video_1.avi
+
+    # SOURCES PlayerController.h PlayerController.cpp
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.

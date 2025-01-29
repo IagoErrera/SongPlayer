@@ -1,0 +1,187 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-19b5a1460ef3708fbb15.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SongPlayer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-94a0a359fe51d4a52fe7.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-54f1cf4bf4434e4bfc84.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-8404045dd2c83a5c682a.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-db5b8b6f9d3eaf60e21e.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-524e6a77682b75c68122.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSongPlayer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSongPlayer-Debug-b6158a2375dc644b5fe1.json",
+					"name" : "appSongPlayer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSongPlayer_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSongPlayer_autogen-Debug-970bf922a438764030a4.json",
+					"name" : "appSongPlayer_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSongPlayer_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSongPlayer_autogen_timestamp_deps-Debug-ea23e6da89c724b62b9c.json",
+					"name" : "appSongPlayer_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSongPlayer_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSongPlayer_qmlimportscan-Debug-b22f820a743dbb4848cd.json",
+					"name" : "appSongPlayer_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSongPlayer_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSongPlayer_qmllint-Debug-d62140b6d0bd435e2a7d.json",
+					"name" : "appSongPlayer_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSongPlayer_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSongPlayer_qmllint_json-Debug-8a95b006e7658831b0d3.json",
+					"name" : "appSongPlayer_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSongPlayer_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSongPlayer_qmllint_module-Debug-e0ebe3bdfe117ca16a71.json",
+					"name" : "appSongPlayer_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSongPlayer_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSongPlayer_qmltyperegistration-Debug-eccac59dcb81ff0582f0.json",
+					"name" : "appSongPlayer_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSongPlayer_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSongPlayer_tooling-Debug-8cafcf5a8999c0c8ece1.json",
+					"name" : "appSongPlayer_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appSongPlayer_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appSongPlayer_aotstats_target-Debug-7dfbe926fe4adb2ec0be.json",
+					"name" : "module_appSongPlayer_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/iago/Documentos/QT/Projects/SongPlayer/build/Desktop_Qt_6_8_1-Debug",
+		"source" : "/home/iago/Documentos/QT/Projects/SongPlayer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

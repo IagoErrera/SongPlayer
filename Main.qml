@@ -1,4 +1,5 @@
 import QtQuick
+import com.company.PlayerController
 
 Window {
     width: 640
@@ -64,7 +65,7 @@ Window {
             title: "Music 3"
             author: "Author 3"
             imageSource: "assets/images/song_3.jpg"
-            videoSource: "qrc:/SongPlayer/assets/videos/video_1.avi"
+            videoSource: "assets/videos/video_1.avi"
 
             anchors {
                 verticalCenter: parent.verticalCenter
@@ -99,7 +100,7 @@ Window {
 
                 imageSource: "assets/icons/previous_icon.png"
 
-                onClicked: playerController.switchToPreviousSong()
+                onClicked: PlayerController.switchToPreviousSong()
             }
 
             ImageButton {
@@ -108,9 +109,9 @@ Window {
                 width: 64
                 height: 64
 
-                imageSource: playerController.playing ? "assets/icons/pause_icon.png" : "assets/icons/play_icon.png"
+                imageSource: PlayerController.playing ? "assets/icons/pause_icon.png" : "assets/icons/play_icon.png"
 
-                onClicked: playerController.playPause()
+                onClicked: PlayerController.playPause()
             }
 
             ImageButton {
@@ -121,31 +122,8 @@ Window {
 
                 imageSource: "assets/icons/next_icon.png"
 
-                onClicked: playerController.switchToNextSong()
+                onClicked: PlayerController.switchToNextSong()
             }
-        }
-    }
-
-    QtObject {
-        id: playerController
-
-        property int currentSongIndex: 0
-        property int songCount: 3
-        property bool playing: false
-
-        function playPause() {
-            playing = !playing
-            console.log(playing ? "Play" : "Pause")
-        }
-
-        function switchToPreviousSong() {
-            if (currentSongIndex <= 0) currentSongIndex = songCount - 1
-            else currentSongIndex--
-        }
-
-        function switchToNextSong() {
-            if (currentSongIndex >= (songCount - 1)) currentSongIndex = 0
-            else currentSongIndex++
         }
     }
 }

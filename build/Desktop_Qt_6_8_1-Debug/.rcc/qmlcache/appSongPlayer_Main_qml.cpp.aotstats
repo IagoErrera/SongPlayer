@@ -6,218 +6,194 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 179,
+                        "durationMicroseconds": 202,
                         "errorMessage": "",
                         "functionName": "top",
-                        "line": 16
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 19,
-                        "durationMicroseconds": 98,
-                        "errorMessage": "",
-                        "functionName": "left",
                         "line": 17
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 20,
-                        "durationMicroseconds": 93,
+                        "column": 19,
+                        "durationMicroseconds": 96,
                         "errorMessage": "",
-                        "functionName": "right",
+                        "functionName": "left",
                         "line": 18
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 18,
-                        "durationMicroseconds": 114,
+                        "column": 20,
+                        "durationMicroseconds": 121,
                         "errorMessage": "",
-                        "functionName": "top",
-                        "line": 28
+                        "functionName": "right",
+                        "line": 19
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 21,
-                        "durationMicroseconds": 97,
+                        "column": 18,
+                        "durationMicroseconds": 122,
                         "errorMessage": "",
-                        "functionName": "bottom",
+                        "functionName": "top",
                         "line": 29
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 19,
-                        "durationMicroseconds": 99,
+                        "column": 21,
+                        "durationMicroseconds": 112,
                         "errorMessage": "",
-                        "functionName": "left",
+                        "functionName": "bottom",
                         "line": 30
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 20,
-                        "durationMicroseconds": 95,
+                        "column": 19,
+                        "durationMicroseconds": 114,
                         "errorMessage": "",
-                        "functionName": "right",
+                        "functionName": "left",
                         "line": 31
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 33,
-                        "durationMicroseconds": 114,
+                        "column": 20,
+                        "durationMicroseconds": 111,
                         "errorMessage": "",
-                        "functionName": "verticalCenter",
-                        "line": 41
+                        "functionName": "right",
+                        "line": 32
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 23,
-                        "durationMicroseconds": 99,
+                        "column": 33,
+                        "durationMicroseconds": 109,
                         "errorMessage": "",
-                        "functionName": "left",
+                        "functionName": "verticalCenter",
                         "line": 42
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 24,
-                        "durationMicroseconds": 128,
+                        "column": 23,
+                        "durationMicroseconds": 93,
                         "errorMessage": "",
-                        "functionName": "right",
+                        "functionName": "left",
                         "line": 43
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 33,
-                        "durationMicroseconds": 114,
+                        "column": 24,
+                        "durationMicroseconds": 93,
                         "errorMessage": "",
-                        "functionName": "verticalCenter",
-                        "line": 55
+                        "functionName": "right",
+                        "line": 44
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 23,
-                        "durationMicroseconds": 96,
+                        "column": 33,
+                        "durationMicroseconds": 113,
                         "errorMessage": "",
-                        "functionName": "left",
+                        "functionName": "verticalCenter",
                         "line": 56
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 24,
-                        "durationMicroseconds": 99,
+                        "column": 23,
+                        "durationMicroseconds": 95,
                         "errorMessage": "",
-                        "functionName": "right",
+                        "functionName": "left",
                         "line": 57
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 33,
-                        "durationMicroseconds": 98,
+                        "column": 24,
+                        "durationMicroseconds": 91,
                         "errorMessage": "",
-                        "functionName": "verticalCenter",
-                        "line": 70
+                        "functionName": "right",
+                        "line": 58
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 23,
-                        "durationMicroseconds": 93,
+                        "column": 33,
+                        "durationMicroseconds": 108,
                         "errorMessage": "",
-                        "functionName": "left",
+                        "functionName": "verticalCenter",
                         "line": 71
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 24,
-                        "durationMicroseconds": 98,
+                        "column": 23,
+                        "durationMicroseconds": 94,
                         "errorMessage": "",
-                        "functionName": "right",
+                        "functionName": "left",
                         "line": 72
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 21,
-                        "durationMicroseconds": 98,
+                        "column": 24,
+                        "durationMicroseconds": 97,
                         "errorMessage": "",
-                        "functionName": "bottom",
-                        "line": 85
+                        "functionName": "right",
+                        "line": 73
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 19,
-                        "durationMicroseconds": 97,
+                        "column": 21,
+                        "durationMicroseconds": 95,
                         "errorMessage": "",
-                        "functionName": "left",
+                        "functionName": "bottom",
                         "line": 86
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 20,
-                        "durationMicroseconds": 93,
+                        "column": 19,
+                        "durationMicroseconds": 91,
                         "errorMessage": "",
-                        "functionName": "right",
+                        "functionName": "left",
                         "line": 87
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 31,
-                        "durationMicroseconds": 54,
-                        "errorMessage": "",
-                        "functionName": "centerIn",
-                        "line": 91
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 28,
-                        "durationMicroseconds": 124,
-                        "errorMessage": "",
-                        "functionName": "onClicked",
-                        "line": 102
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 30,
-                        "durationMicroseconds": 194,
-                        "errorMessage": "",
-                        "functionName": "imageSource",
-                        "line": 111
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 28,
-                        "durationMicroseconds": 94,
-                        "errorMessage": "",
-                        "functionName": "onClicked",
-                        "line": 113
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 28,
+                        "column": 20,
                         "durationMicroseconds": 91,
                         "errorMessage": "",
+                        "functionName": "right",
+                        "line": 88
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 92
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 251,
+                        "errorMessage": "Cannot access value for name PlayerController",
                         "functionName": "onClicked",
-                        "line": 124
+                        "line": 103
                     },
                     {
-                        "codegenSuccessfull": true,
-                        "column": 9,
-                        "durationMicroseconds": 285,
-                        "errorMessage": "",
-                        "functionName": "playPause",
-                        "line": 136
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 217,
+                        "errorMessage": "Cannot access value for name PlayerController",
+                        "functionName": "imageSource",
+                        "line": 112
                     },
                     {
-                        "codegenSuccessfull": true,
-                        "column": 9,
-                        "durationMicroseconds": 237,
-                        "errorMessage": "",
-                        "functionName": "switchToPreviousSong",
-                        "line": 141
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 202,
+                        "errorMessage": "Cannot access value for name PlayerController",
+                        "functionName": "onClicked",
+                        "line": 114
                     },
                     {
-                        "codegenSuccessfull": true,
-                        "column": 9,
-                        "durationMicroseconds": 211,
-                        "errorMessage": "",
-                        "functionName": "switchToNextSong",
-                        "line": 146
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 202,
+                        "errorMessage": "Cannot access value for name PlayerController",
+                        "functionName": "onClicked",
+                        "line": 125
                     }
                 ],
                 "filepath": "/home/iago/Documentos/QT/Projects/SongPlayer/Main.qml"
